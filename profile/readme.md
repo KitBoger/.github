@@ -1,6 +1,6 @@
 # Hey, KitBoger team here!
 ####
-#### ![image](assets/kitboger.png)
+#### ![image](assets/kitboger-4.png)
 
 # What is KitBoger? 🤔
 #### KitBoger is a Github organization with cool free & open source projects
